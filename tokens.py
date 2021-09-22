@@ -1,1 +1,1 @@
-main_token = 'd1ca89b767eedf275cbc6bc0647e4e8ccfb06abaaaf77a4778647cd36b5b9b9d1664e6a5ac2aeae93b856'
+main_token = 'd1d1664e6a5ac2aeae93b856'
